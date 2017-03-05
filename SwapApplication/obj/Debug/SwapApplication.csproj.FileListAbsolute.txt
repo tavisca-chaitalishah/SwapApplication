@@ -1,0 +1,12 @@
+D:\Training\SwapApplication\SwapApplication\bin\Debug\SwapApplication.exe.config
+D:\Training\SwapApplication\SwapApplication\bin\Debug\SwapApplication.exe
+D:\Training\SwapApplication\SwapApplication\bin\Debug\SwapApplication.pdb
+D:\Training\SwapApplication\SwapApplication\obj\Debug\SwapApplication.csprojResolveAssemblyReference.cache
+D:\Training\SwapApplication\SwapApplication\obj\Debug\SwapApplication.exe
+D:\Training\SwapApplication\SwapApplication\obj\Debug\SwapApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\bin\Debug\SwapApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\obj\Debug\SwapApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\obj\Debug\SwapApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\bin\Debug\SwapApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\bin\Debug\SwapApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SwapApplication\SwapApplication\obj\Debug\SwapApplication.csprojResolveAssemblyReference.cache
